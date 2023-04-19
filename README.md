@@ -32,4 +32,4 @@ If you would like to contribute to SolidVotes, you can fork the repo and submit 
 
 ## License
 
-SolidVotes is released under the MIT License. See LICENSE for details.
+SolidVotes is released under the MIT License. See [LICENSE](LICENSE) for details.
