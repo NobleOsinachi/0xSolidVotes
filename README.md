@@ -1,6 +1,6 @@
 # SolidVotes
 
-SolidVotes is a decentralized voting system that uses blockchain technology to ensure the immutability and transparency of votes. The project was inspired by the 2023 Nigeria election, which was plagued by vote rigging and inflation.
+SolidVotes is a decentralized voting system that uses blockchain technology to ensure the immutability and transparency of votes. The project was inspired by the events of the 2023 Nigeria elections, which was plagued by vote rigging and inflation.
 
 ## Overview
 
