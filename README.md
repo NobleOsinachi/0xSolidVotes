@@ -1,33 +1,35 @@
-# Solidity 101
+# SolidVotes
 
-This repository contains a collection of Solidity code snippets that can be used as a starting point for building decentralized applications (dApps) on the Ethereum blockchain. Solidity is a programming language used for writing smart contracts that run on the Ethereum Virtual Machine (EVM).
+SolidVotes is a decentralized voting system that uses blockchain technology to ensure the immutability and transparency of votes. The project was inspired by the 2023 Nigeria election, which was plagued by vote rigging and inflation.
 
-Getting Started
----------------
+## Overview
 
-To get started with Solidity, you'll need to install a Solidity compiler. The recommended compiler version for this repository is Solidity 0.8.3 or higher. You can find installation instructions for the Solidity compiler on the official Solidity website.
+The goal of SolidVotes is to provide a secure and trustworthy voting system that can be used in various settings, such as elections, polls, and surveys. By leveraging blockchain technology, SolidVotes eliminates the need for a centralized authority to manage and validate the voting process, thus reducing the risk of fraud and manipulation.
 
-Contents
---------
+## Features
 
-The code snippets in this repository cover some of the basic concepts of Solidity, including:
+- Immutable and transparent voting records
+- Decentralized and trustless architecture
+- Secure and encrypted data transmission
+- Easy integration with existing systems
 
-*   Variables and data types
-*   Functions
-*   Control structures (if/else, for/while loops)
-*   Arrays and mappings
-*   Events and modifiers
-*   Inheritance and interfaces
-*   Error handling
+## How it works
 
-Contributing
-------------
+SolidVotes uses a distributed network of nodes to validate and record votes. When a voter casts their vote, it is encrypted and transmitted to the network, where it is validated by a consensus algorithm. Once the vote is verified, it is added to the blockchain, where it becomes a permanent and tamper-proof record.
 
-Contributions to this repository are welcome! If you have a Solidity code snippet that you'd like to add, please fork this repository and submit a pull request with your changes.
+## Getting started
 
-Before contributing, please read our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure that your contributions are in line with our community guidelines.
+To get started with SolidVotes, you can follow these steps:
 
-License
--------
+1. Install the SolidVotes client on your device
+2. Create an account and set up your profile
+3. Browse the available polls and cast your vote
+4. Monitor the voting results in real-time
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+## Contributing
+
+If you would like to contribute to SolidVotes, you can fork the repo and submit a pull request with your changes. We welcome contributions of all kinds, including bug fixes, feature enhancements, and documentation improvements.
+
+## License
+
+SolidVotes is released under the MIT License. See LICENSE for details.
